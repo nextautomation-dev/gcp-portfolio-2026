@@ -5,3 +5,8 @@
 - nginx container running and accessible from browser
 - First n8n workflow built: HTTP Request + data transformation
 - Google SA III Public Sector application submitted
+## Day 2 — March 31, 2026
+- Completed all Docker sections on KodeKloud
+- Built first custom Dockerfile (python:3.11-slim)
+- Completed Nana Docker training
+- Docker foundation complete
