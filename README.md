@@ -14,3 +14,7 @@
 - K8s Sections 1-2 complete on KodeKloud + personal lab
 - Fixed ArgoCD CRD annotation bug — all 7 ArgoCD pods now running
 - Cluster healthy: ArgoCD, Prometheus, Grafana, Ingress, n8n all running
+## Day 4 — April 2, 2026
+- K8s Sections 1-2 complete on KodeKloud + personal lab
+- Fixed ArgoCD CRD annotation bug — all 7 ArgoCD pods now running
+- Cluster healthy: ArgoCD, Prometheus, Grafana, Ingress, n8n all running
