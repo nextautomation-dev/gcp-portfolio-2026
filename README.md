@@ -18,3 +18,8 @@
 - K8s Sections 1-2 complete on KodeKloud + personal lab
 - Fixed ArgoCD CRD annotation bug — all 7 ArgoCD pods now running
 - Cluster healthy: ArgoCD, Prometheus, Grafana, Ingress, n8n all running
+## Day 5 — April 5, 2026
+- K8s Beginners modules 3-4 complete
+- YAML fundamentals reviewed
+- Multi-container pod (nginx + redis) deployed on live cluster
+- Learned: kubectl dry-run is the real validator, not yamllint
