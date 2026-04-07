@@ -1,5 +1,4 @@
-# gcp-portfolio-2026
-"GCP Portfolio — 32-Day Execution Plan | GKE, Terraform, Security, AI Automation Platform"
+ gcp-portfolio-2026"GCP Portfolio — 32-Day Execution Plan | GKE, Terraform, Security, AI Automation Platform"
 ## Day 1 — March 30, 2026
 - Docker installed on Ubuntu 24.04
 - nginx container running and accessible from browser
@@ -14,7 +13,10 @@
 - K8s Sections 1-2 complete on KodeKloud + personal lab
 - Fixed ArgoCD CRD annotation bug — all 7 ArgoCD pods now running
 - Cluster healthy: ArgoCD, Prometheus, Grafana, Ingress, n8n all running
-
+## Day 4 — April 2, 2026
+- K8s Sections 1-2 complete on KodeKloud + personal lab
+- Fixed ArgoCD CRD annotation bug — all 7 ArgoCD pods now running
+- Cluster healthy: ArgoCD, Prometheus, Grafana, Ingress, n8n all running
 ## Day 5 — April 5, 2026
 - K8s Beginners modules 3-4 complete
 - YAML fundamentals reviewed
